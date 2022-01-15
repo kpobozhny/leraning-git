@@ -1,1 +1,1 @@
-console.lot("Hello Git!");
+console.lot("Hello Git user!");
